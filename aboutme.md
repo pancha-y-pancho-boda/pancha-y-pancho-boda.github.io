@@ -11,6 +11,7 @@ My name is Inigo Montoya. I have the following qualities:
 
 What else do you need?
 
-### My story
+### NUESTRA HISTORIA
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+Nos conocimos por internet en face estuvimos hablando por face un tiempo y des pues haciamos videollamadas cuando tuvimos mas confianza y des pues llego el dia en el que teniamos que conocernos por primeera vez fue en un parque cerca y pues todo marcho bien nos conocimos por primera vez en persona y fue algo maravilloso y muy bonito y nos preguntamos mas acerca de nosotros  
