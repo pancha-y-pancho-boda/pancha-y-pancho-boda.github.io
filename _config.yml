@@ -14,7 +14,7 @@ author:
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  nuestra historia: "about me"
+  nuestra historia: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
