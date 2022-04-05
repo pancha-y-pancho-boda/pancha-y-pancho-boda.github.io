@@ -15,7 +15,7 @@ author:
 
 navbar-links:
   nuestra historia: "aboutme"
-  Resources:
+  acontecimientos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
