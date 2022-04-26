@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "" ORGANIZACION Y HORARIOS DEL EVENTO ""
+title: ORGANIZACION Y HORARIOS DEL EVENTO
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
